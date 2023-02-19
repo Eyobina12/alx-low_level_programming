@@ -2,7 +2,7 @@
 /**
  * main - print me the result out
  * code by me at c
- * Return: 0
+ * Return: it give out put
 */
 int main(void)
 {
