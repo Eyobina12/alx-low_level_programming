@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print me the result out
+ * main - print me the result out here hope will suc
  * code by me at c
  * Return: 0
 */
