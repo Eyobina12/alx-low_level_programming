@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**	
- * main - hexadecimal prints all the numbers of base 16
+ * main - hexadecimal prints all the numbers of base16
  * Return: 0 shows the success of the project
  */
 int main(void)
