@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main – print _putchar
+ * main – print me this _putchar
  * is wrriten by eyob12 now let us start cheking
  * Return: 0 for me
 */
